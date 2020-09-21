@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fjtui
+  description: yerufgijugjh
+  annotations:
+    github.com/project-slug: shmidt-i-test/teui95h398h1111
+spec:
+  type: website
+  lifecycle: experimental
+  owner: shmidt-i
